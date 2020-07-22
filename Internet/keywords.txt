@@ -1,0 +1,83 @@
+#######################################
+# Syntax Coloring Map For WifiManager
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Internet	KEYWORD1
+WISROVI	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ConfigWifiKeepAlive	KEYWORD2
+keepWiFiAlive	KEYWORD2
+
+ConvertChar	KEYWORD2
+ConvertChartoMac	KEYWORD2
+keepEthAlive	KEYWORD2
+ConfigEthernetKeepAlive	KEYWORD2
+getStatusConectionwifi	KEYWORD2
+ConfigRedWifiConection	KEYWORD2
+thereInternet	KEYWORD2
+isActiveUseWifi	KEYWORD2
+setIniciarServidorWifi	KEYWORD2
+deshabilitarWifimanager	KEYWORD2
+
+internetResponse	KEYWORD2
+ConfigInternet	KEYWORD2
+SendGet	KEYWORD2
+getResponse	KEYWORD2
+getStatusConectionEthernet	KEYWORD2
+isActiveUseEthernet	KEYWORD2
+
+
+ConfigWifiAP	KEYWORD2
+getAPStart	KEYWORD2
+ProcessClient	KEYWORD2
+getClientes	KEYWORD2
+isActiveUseAP	KEYWORD2
+setIniciarServidorAP	KEYWORD2
+RegistrarNuevoServicioGet	KEYWORD2
+ProcesarClienteRequest	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+nucleo1WifiKeepAlive_Handle	LITERAL1
+server_OTA	LITERAL1
+thereConectionWifi	LITERAL1
+useWifi	LITERAL1
+EspacioMemoriaWifi	LITERAL1
+WIFI_TIMEOUT	LITERAL1
+useCredentialsConfigured	LITERAL1
+
+useEth	LITERAL1
+thereConectionEthernet	LITERAL1
+ETH_TIMEOUT	LITERAL1
+DEVICE_NAME	LITERAL1
+EspacioMemoriaEthernet	LITERAL1
+RESET_P	LITERAL1
+nucleo1EthKeepAlive_Handle	LITERAL1
+
+_ip	LITERAL1
+_port	LITERAL1
+_urlSolicitud	LITERAL1
+_enviar_get	LITERAL1
+client	LITERAL1
+respuestaGet	LITERAL1
+nucleo1InternetResponse_Handle	LITERAL1
+
+WifiAP	LITERAL1
+clientsStations	LITERAL1
+nucleo1WifiAP_Handle	LITERAL1
+nombreAP_char	LITERAL1
+passwordAP_char	LITERAL1
+AP_started	LITERAL1
+EspacioMemoriaWifiAP	LITERAL1
+
+

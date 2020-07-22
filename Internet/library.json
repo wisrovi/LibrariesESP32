@@ -1,0 +1,13 @@
+{
+  "name": "Internet",
+  "keywords": "wifi, wi-fi",
+  "description": "ESP8266/ESP32 Automatic WiFi/Eth Connection manager",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/bbx10/WiFiManager.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "version": "0.1.1"
+}
